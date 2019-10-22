@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Login Here</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+
+    <style>
+        * {
+        font-family : 'Lato';
+        }
+    </style>
+</head>
+<body>
+<h1>
+    Please Log in [using brute force]
+</h1>
+<h3>
+    The brute force script is in the main directory
+</h3>
+<br><br><br>
+    <form method="post">
+        {% csrf_token %}
+        <input type="text" placeholder="Username" name="password"/>
+        <input type="password" placeholder="password" name="password">
+        <input type="submit" value="Login"/>
+    </form>
+</body>
+</html>
