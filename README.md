@@ -16,6 +16,6 @@
 6. open the firefox and play with it >>> 127.0.0.1:8000
 
 # whoami
- follow me on social media 
- Khalid Obaide 
- profile logo >>> X
+  follow me on social media 
+  Khalid Obaide 
+  profile logo >>> X
