@@ -51,7 +51,7 @@ else:
     
     $1 : The website Url
     $2 : The Times you want to send request
-    $3 : The File you want to save the log in 
+    $3 : The Report File Name 
     
     example : python3 dos.py https:google.com 10000 log.txt
     
