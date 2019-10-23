@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="856bb25c-8802-4c28-9ae6-ffe70114d130" name="Default Changelist" comment="" />
+    <list default="true" id="8271f119-1950-494a-ae75-9378bcd6aeb3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,13 +9,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1SYTsNdJWuv5B1CmOVjCXeTUdYH" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
+  <component name="ProjectId" id="1SaYjX7kCNH29sJKwHukadJZ3z9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -33,11 +30,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="856bb25c-8802-4c28-9ae6-ffe70114d130" name="Default Changelist" comment="" />
-      <created>1571739734106</created>
+      <changelist id="8271f119-1950-494a-ae75-9378bcd6aeb3" name="Default Changelist" comment="" />
+      <created>1571803309413</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571739734106</updated>
+      <updated>1571803309413</updated>
     </task>
     <servers />
   </component>
@@ -46,9 +43,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

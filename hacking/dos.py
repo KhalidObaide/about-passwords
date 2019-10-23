@@ -25,10 +25,19 @@ if URL != 'help':
     attack_time = str(datetime.now())
     f = open(file_name, 'w')
     f.write(f'''
+
+    *****************************
+    Dos Attacker by Khalid Obaide
+    *****************************
+              [report]
+
+
     Target Url   : {URL} \n
     Request Sent : {times} \n
-    Finished in  : {finish_time}s \n
+    Under Attack : {finish_time}s \n
     Attack Time  : {attack_time} \n
+
+
     ''')
     f.close()
 else:
